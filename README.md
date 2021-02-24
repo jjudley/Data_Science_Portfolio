@@ -1,7 +1,8 @@
 # Project_Portfolio
 Portfolio of projects
 
-
+## [Fraud Detection Project](https://github.com/jjudley/jj_portfolio/blob/main/Fraud%20Detection%20.ipynb)
+Applied machine learning models to determine what factors contribute to fraudulent activity 
 
  
  
